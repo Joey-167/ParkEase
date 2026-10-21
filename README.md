@@ -118,7 +118,7 @@ Install the following before running the project:
 
 ```bash
 
-git clone YOUR\_GITHUB\_REPOSITORY\_URL
+git clone https://github.com/Joey-167/ParkEase.git
 
 cd parking-car
 
@@ -126,7 +126,7 @@ cd parking-car
 
 
 
-Replace `YOUR\_GITHUB\_REPOSITORY\_URL` with your GitHub repository's HTTPS URL.
+Replace `https://github.com/Joey-167/ParkEase.git` with your GitHub repository's HTTPS URL.
 
 
 
